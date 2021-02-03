@@ -1,0 +1,60 @@
+body.cuerpo{
+    font-size: 150%;
+    margin-left: 600px;
+}
+p.cabeza{
+    background-color: aqua;
+    display: inline;
+}
+
+p.titulo{
+    font-size: 150%;
+}
+
+p.centrado{
+    text-align: center;
+}
+h3.centrado{
+    margin-left: 100px;
+}
+
+section.centrado{
+    text-align: center;
+}
+
+span.sub{
+    text-decoration: underline;
+}
+
+input.boton{
+    background-color: orange;
+    width: 300px;
+    height: 50px;
+    border-radius: 6px;
+    font-size: 110%;
+}
+input.boton2{
+    background-color: green;
+    width: 300px;
+    height: 50px;
+    border-radius: 6px;
+    font-size: 110%;
+}
+input.cerrado{
+    width: 300px;
+    height: 30px;
+    font-size: 80%;
+}
+select.cerrado{
+    width: 300px;
+    height: 30px;
+    font-size: 80%;
+   
+}
+input.cerrado2{
+    width: 615px;
+    height: 30px;
+    font-size: 80%;
+    border-radius: 6px;
+}
+
